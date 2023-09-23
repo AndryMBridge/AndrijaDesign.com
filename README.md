@@ -1,2 +1,3 @@
-www.andrijadesign.com
-Tested web application www.andrijadesign.com containing TestPlan, TestCases; BugReports, Improvements, Feature documented in Jira 
+Some functionalities tested on the web application www.andrijadesign.com. 
+Requirement, TestSet, TestCases - documented in PDF
+Bug Reports - documented in Jira 
